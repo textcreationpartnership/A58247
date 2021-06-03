@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for the repeal of the tests, in a letter to a friend in the country</title>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58247</idno><idno type="EEBO-CITATION">12801080</idno>
+  <idno type="VID">94046</idno>
+  <idno type="EEBO-PROQUEST">2240974930</idno>
+  
+            <idno type="STC">Wing R519</idno>
+            <idno type="STC">ESTC R6587</idno>
+            <idno type="OCLC">12801080</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58247)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94046)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 776:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for the repeal of the tests, in a letter to a friend in the country</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Andrew Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Test Act (1673)</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:94046:1"/>
+            <head>REASONS FOR THE <hi>REPEAL</hi> OF THE TESTS. <hi>In a Letter to a Friend in the Country.</hi>
+            </head>
+            <opener>With Allowance.</opener>
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>THE King's late gracious <hi>Declaration</hi> for <hi>Liberty of Conscience,</hi> having been most thankfully received through<g ref="char:EOLhyphen"/>out the <hi>Kingdom,</hi> it is with some Surprize, that I read in your Letter, That many of the <hi>Clergy</hi> of the established Church, bandy against it, and are inciting the <hi>Gentlemen</hi> of your Neighbourhood, to a Dislike of his Majesties Resolutio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to recommend to his <hi>Parliament,</hi> the Repeal of the de<g ref="char:EOLhyphen"/>structive <hi>P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>al Laws,</hi> and insnaring <hi>Tests;</hi> and that they are, at the same time, slily insinuating a Suspition into Protestant Dissenters, <hi>of a Snake
+<pb n="2" facs="tcp:94046:2"/> in the Grass,</hi> and by that Art, working them into their Faction, for upholding t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ose <hi>Engines of Mischief,</hi> in opposition to his <hi>Majesties</hi> de<g ref="char:EOLhyphen"/>clared Pleasure, and against the Inclination, and undoubted Interest of the Bulk of his People: I say, I am surprized at your <hi>News,</hi> for those very <hi>Clergymen</hi> you tell me are playing this Game, did of late make such a high Pretence to <hi>inimitable Loyalty,</hi> that a Man could not, with common Charity suspect, that <hi>Persecution</hi> it self would provoke them, to start from it, either in Principle or Practice; wherefore I (being as it seems too easy) concluded that the <hi>Churches</hi> Grandure and Wealth, together with her <hi>Religion,</hi> being secured, the Example of her <hi>Sons</hi> would have raised the <hi>Peoples</hi> Esteem of the <hi>King</hi>'s Grace, but finding my Mistake, and that I did not rightly comprehend those <hi>Gentlemen,</hi> allow me to add to my last, which told you my Thoughts of the <hi>Penal Laws,</hi> the Reasons which occur to me, for the taking off the <hi>Tests,</hi> and therein I doubt not of convincing you, that they were framed to serve a Turn, and that a very wicked one, that of the <hi>Seclusion</hi> of our present Soveraign, and the Providence of <hi>God</hi> having in a very eminent manner appeared against it, you will then agree with me, that every Step towards it, is to be <hi>abhorred.</hi>
+            </p>
+            <p>I shall in the first place take notice, what the <hi>Tests</hi> are, because I conclude many of our <hi>Neighbours</hi> to whom this Letter may be imparted know little more of them, than the Name.</p>
+            <p>We have the first <hi>Test</hi> in the Act of 1673. Entituled, <hi>An Act for pre<g ref="char:EOLhyphen"/>venting Dangers which may happen from Popish Recusants.</hi>
+            </p>
+            <p>That Act disables all Persons to bear Office, Civil or Military, or to have Command, or Place of Trust under the <hi>King,</hi> or to be of his House<g ref="char:EOLhyphen"/>hold, or in his Service, who shall not take the Oaths of <hi>Supremacy,</hi> and <hi>Allegiance,</hi> and receive the <hi>Sacrament of the Lords Supper,</hi> according to the Church of <hi>England,</hi> and make and subscribe this Declaration.</p>
+            <p>
+               <hi>I</hi> A. B. <hi>do declare that I believe that there is not any Transubstantiati<g ref="char:EOLhyphen"/>on in the Sacrament of the Lords Supper, or in the Elements of Bread and Wine, at or after the Consecration thereof, by any Person whatsoever.</hi>
+            </p>
+            <p>And the <hi>Refuser,</hi> is by that <hi>Act</hi> made incapable of any <hi>Office,</hi> or to prosecute any Suit at Law, or in Equity, or to be a <hi>Guardian, Execu<g ref="char:EOLhyphen"/>tor, or Administrater,</hi> or to be capable of a <hi>Legacy,</hi> or Deed of <hi>Gift,</hi> and shall forfeit <hi>Five hundred Pounds.</hi>
+            </p>
+            <p>The Second <hi>Test,</hi> is in the Statute (in the memorable Year 1678. (when we were warm, almost to the Degree of Madness) entituled, <hi>An Act for the more effectual Preserving the King's Person and Government, by d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing Papists, from sitting in either House of Parliament</hi> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> There, af<g ref="char:EOLhyphen"/>ter a flattering Preamble, it is enacted, <hi>That Peers, and Commons, be<g ref="char:EOLhyphen"/>fore
+<pb n="3" facs="tcp:94046:2"/> they sit in Parliament, shall take the Oaths of Supremacy and Allegiance and make and subscribe this Declaration. I</hi> A. B. <hi>do solemnly and sincerely in the Presence of God, profess, testify, and declare, That I do believe, that in the Sacrament of the Lord's Supper, there is not any Transubstantiation of the Body and Blood of Christ, at, or after the Consecration thereof, by any Per<g ref="char:EOLhyphen"/>son whatsoever; and that the Invocation, or Adoration of the Virgin</hi> Mary, <hi>or any other Saint, and the Sacrifice of the Mass, as they are now used in the Church of</hi> Rome, <hi>are superstitious and Idolatrous.</hi>
+            </p>
+            <p>And it enacts, <hi>That no Peer of any of the three Kingdoms, nor convict Recusant, who takes not the Oaths, and subscribes the Declaration, shall come into the Presence of the King or Queen, or into the Houses where either of them Reside,</hi> &amp;c.</p>
+            <p>The <hi>Offender</hi> is judged a <hi>Popish Recusant,</hi> and to suffer as such, and disabled to hold any <hi>Office</hi> or <hi>Place of Trust,</hi> or to fit or vote in <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> or to have the Benefit of the <hi>Law,</hi> and shall forfeit 500 <hi>l.</hi>
+            </p>
+            <p>The sworn Servants of the King, not having conformed to the Act of 1673, shall conform to this Act, or be disabled to hold their Places, and be subject to the aforesaid Penalties; <hi>Notwithstanding</hi> the Proviso in the Act, that it should not extend to his <hi>Royal Highness,</hi> the Duke of <hi>York,</hi> it is well known to all who remember the <hi>Transaction</hi> of that Bill, in the Two <hi>Houses,</hi> that it was chiefly intended against his now <hi>Majesty,</hi> and that when the <hi>Proviso</hi> was brought in, it was stifly opposed, and when carried, which was with <hi>Difficulty,</hi> the active <hi>Men</hi> who framed and promoted the <hi>Bill,</hi> did acknowledg, That what they mainly aimed at, was eluded by the <hi>Proviso,</hi> which was <hi>(in order to the grand Ex<g ref="char:EOLhyphen"/>clusion)</hi> the Excluding his <hi>Royal Highness</hi> from the <hi>Lord</hi>'s House, and from the Presence of his then <hi>Majesty.</hi> But to keep to my Word, I proceed to the Reasons for the Repeal of both the <hi>Tests.</hi>
+            </p>
+            <p>They ought to be taken away, because they are <hi>unreasonable,</hi> and <hi>unjust</hi> (Circumstances are altered, and we cannot now expect, That they should be put in Execution; nay, it is altogether impracticable to do it.)</p>
+            <p>The <hi>King</hi> must be served, can it be thought Reasonable that it should be done, by such Persons only, who reject the <hi>Doctrines</hi> of his <hi>Maje<g ref="char:EOLhyphen"/>sty</hi>'s own <hi>Faith?</hi> And to have it to be an absolutely necessary Qualifi<g ref="char:EOLhyphen"/>cation, for the <hi>King</hi>'s Service, to renounce his <hi>Religion?</hi> Sure there is little of Reason, less of Decency, and good Manners, in pretending so to impose upon his <hi>Majesty,</hi> that no Person may approach his <hi>presence,</hi> come into his <hi>Court,</hi> or be admitted to the Honour of his <hi>Service,</hi> but that therefore, he shall be deemed as an <hi>Out-law,</hi> deprived of the Bene<g ref="char:EOLhyphen"/>fit of prosecuting his <hi>civil Right,</hi> rendered incapable of any Trust under
+<pb n="4" facs="tcp:94046:3"/> the <hi>King,</hi> and of receiving a <hi>Gift,</hi> or <hi>Legacy</hi> from Father, Mother, or Friend, but upon the Termes of declaring the <hi>King an Idolater.</hi> But methinks I hear some <hi>Sticklers</hi> in the Point in question, beginning to say, let the King, in <hi>God</hi>'s Name, be served by whom he plea<g ref="char:EOLhyphen"/>ses, we will concede to the repealing the <hi>Test</hi> of 1673. which puts a rude and unreasonable Qualification upon his Majesty's <hi>Servants,</hi> but what need of <hi>Roman Catholicks</hi> in Parliament? We will retain the <hi>Test</hi> of 1678. I shall therefore shew you, why I do think we ought to la<g ref="char:EOLhyphen"/>bour earnestly the sending both <hi>Tests</hi> together.</p>
+            <p>The <hi>Test</hi> of 1678, is very unjust, in that it deprives <hi>Peers</hi> of their Birth-right, for matters of <hi>Opinion</hi> in things meerly <hi>Religious,</hi> they are <hi>Conciliarii nati;</hi> and as such, have an indisputable Right, to sit in the <hi>Lords House</hi> of Parliament: This <hi>Test</hi> then, tho it contains only Controversies in <hi>Faith,</hi> is an high Violation of the great Right, and Pri<g ref="char:EOLhyphen"/>viledge of the Peers, in excluding them from sitting, and serving the <hi>King,</hi> and <hi>Kingdom,</hi> in the supreme Judicature.</p>
+            <p>I am sure in the time of the <hi>late Ʋsurpation,</hi> we called out for free<g ref="char:EOLhyphen"/>dom of <hi>Parliamnets</hi> (which is destroyed by this <hi>Test</hi>) and decry'd their Seclusion of <hi>Members,</hi> who were not so, and so qualified; let us then, as lovers of <hi>Parliaments,</hi> be steady to that Principle, and use our best Endeavours, in our Spheres, for the abolishing the <hi>Tests,</hi> which alter the Constitution of the Government; and the rather, for that the Causes, or Pretences for these <hi>Tests,</hi> are ceased; if we do believe the <hi>King</hi> and his Government, not to be in danger from the <hi>Roman Catholicks.</hi>
+            </p>
+            <p>Designing and <hi>intriguing</hi> Men, have been long at this <hi>testy, testing</hi> Work, you remember the <hi>Church-men</hi> catcht the <hi>Non Conforming Mi<g ref="char:EOLhyphen"/>nisters,</hi> by a <hi>Test</hi> in 1665. in the Act we best know, by the Name of the <hi>Oxford Act.</hi>
+            </p>
+            <p>Some time after <hi>(viz.)</hi> in the Year 1675. the same <hi>Test</hi> was set on Foot in Parliament, by the <hi>Test-Mongers,</hi> with design to have made it more Extensive, than to the <hi>Non-Conformist Preachers</hi> residing in a Corpora<g ref="char:EOLhyphen"/>tion, for it incapacitated the <hi>Peers</hi> to sit in Parliament, without the qua<g ref="char:EOLhyphen"/>lification of that <hi>Test:</hi> It was carried in the Lords House, by Vote, after, and against such Debates, as it may be, no one Point ever had there: It appears, by the Journal of that House, that many Lords (of whom there are yet alive, the Marquess of <hi>Winchester,</hi> the Earls of <hi>Bedford, Hallifax, Clarendon,</hi> Lord <hi>Grey of Rolleston,</hi> and Lord <hi>Wharton</hi>) by their <hi>Protest,</hi> declared their Dissent; for that, the imposing an Oath, and that the Refusal should incapacitate them from sitting, and voting in the House, was unpresidented, and the highest Invasion of the Liberties and Privi<g ref="char:EOLhyphen"/>ledges of the Peerage, and most destructive of the <hi>Freedom of Parliament,</hi>
+               <pb n="5" facs="tcp:94046:3"/> because the Priviledge of sitting and voting in <hi>Parliament,</hi> is an Honour they have by Birth, and so inherent a Right, and inseparable from them, that nothing can take it away, but what by Law, must withal take away their Lives, and corrupt their Blood.</p>
+            <p>Was this sound <hi>Doctrine</hi> at that Day? (yes, it was, and as such pre<g ref="char:EOLhyphen"/>vailed, and the <hi>Test</hi> fell to the Ground) then it must always be so; <hi>Truth will be Truth,</hi> let men change never so often; and I must believe that this Position will weigh, with our stickling <hi>Sons of the Church,</hi> who seem over fond of the <hi>Tests,</hi> when they see the Opinion of such great men, whose Names are celebrated, for Wisdom and Integrity, and to whom they pay so great a Deference; but to proceed.</p>
+            <p>It is highly necessary that these <hi>Tests</hi> be abrogated; this appears in that the <hi>King</hi> desires it, the <hi>Papists</hi> crave it, and the Interest of the whole Nation requires it: We are all then in Prudence to consent thereto; the retaining the <hi>Test</hi> is in Truth a denial of <hi>Liberty of Conscience,</hi> for it re<g ref="char:EOLhyphen"/>quires men, under Penalties, to declare themselves in matters of Faith, otherwise then they are perswaded, and so infringes this <hi>Liberty.</hi> His <hi>Majesty</hi> imposes not his Religion upon us, let us not then pretend to im<g ref="char:EOLhyphen"/>pose upon his <hi>Religion,</hi> and those who hold it, nor to burden their <hi>Con<g ref="char:EOLhyphen"/>sciences.</hi> He appears to consult the <hi>Ease and Happiness</hi> of all his Sub<g ref="char:EOLhyphen"/>jects, and would bury the dividing Occasions of our <hi>Heats and Animosi<g ref="char:EOLhyphen"/>ties,</hi> which have too long disturbed and interrupted our Peace and Tran<g ref="char:EOLhyphen"/>quility, Let us consider the Consequences of things, and not provoke the <hi>King,</hi> by a <hi>peevish and splenetick Dissent.</hi> We believe the <hi>King</hi> has a <hi>Conscience,</hi> we must esteem it an odd one, to think he can approve our holding the <hi>Romanists</hi> under these discriminating <hi>Tests;</hi> we may not so mistake him, he desires, and <hi>intends not to be denyed,</hi> their Ease and Se<g ref="char:EOLhyphen"/>curity, let us not break with him, in refusing it.</p>
+            <p>We have been taught to entertain very hard Thoughts of their Reli<g ref="char:EOLhyphen"/>gion, and as we learnt to speak, we stammered out no <hi>Papist, no Popery;</hi> whence sprang this Aversion? Mainly, I am sure, from our Apprehen<g ref="char:EOLhyphen"/>sion that <hi>Blood</hi> and <hi>Cruelty</hi> attended it; the <hi>Roman Catholicks,</hi> tho sure of the <hi>King,</hi> are willing to concert and accommodate matters with us, and to deliver us from what we have so dreaded, their <hi>Persecution;</hi> up<g ref="char:EOLhyphen"/>on the most reasonable and equal Terms, of being freed from the Dan<g ref="char:EOLhyphen"/>ger <hi>of ours;</hi> I hope our established <hi>Church</hi> will be think her self, and bet<g ref="char:EOLhyphen"/>ter consider things, than, by her stubborn Adhesion, to her <hi>Laws of Se<g ref="char:EOLhyphen"/>verity and Force,</hi> to incline us to love <hi>Popery,</hi> when we find it gentle and easy to be entreated. I profess I am too short sighted, to discern why the Church of <hi>England,</hi> doth so bestir her self to uphold the <hi>Penal Laws and Tests.</hi> Is she not in the Chair, and safe? I am very certain she
+<pb n="6" facs="tcp:94046:4"/> thought her self so, after she knew she had lost the <hi>King,</hi> and jogg'd on very jocundly, whilst she was permitted to annoy her Neighbours, by gi<g ref="char:EOLhyphen"/>ving them the only Choice of <hi>Conformity or Ruin.</hi> The <hi>King</hi> promised to maintain her, so he doth, and will undoubtedly persevere to do, if she runs not her self into a Forfeiture of that Royal <hi>Grace.</hi> She seemed entirely to confide in the <hi>King</hi>'s Word; it will be her Wisdom to do so still; She enjoys the <hi>Churches,</hi> and their ample Revenues, <hi>what wants she? What would she have?</hi> She looses nothing by repealing the <hi>Laws,</hi> but the <hi>Power of Persecuting,</hi> which she condemns in others. Could she with any regard to <hi>Justice,</hi> or pretence to <hi>Sense,</hi> conceive, that the <hi>King's</hi> Promise should mean, or be extended to maintain her persecuting tyrani<g ref="char:EOLhyphen"/>zing Power over <hi>Conscience,</hi> which by the <hi>Declarations</hi> of <hi>God,</hi> and the <hi>King,</hi> is to be free; surely she forgot his <hi>Majesty</hi> to be amongst the Num<g ref="char:EOLhyphen"/>ber of her <hi>Non-Conformists,</hi> when she dreamt the <hi>King</hi> would continue to her, a Power to extirpate <hi>Dissenters.</hi> Let her cease to be angry, and rebuke her <hi>Son</hi>'s very unmannerly <hi>sitting in Judgment</hi> upon, and censuring the <hi>King</hi>'s <hi>Proceedings:</hi> Let her, I say, be wise, and know her Duty, and Interest. The advice is requisite, sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being at this day tampering to draw the <hi>Fanaticks</hi> into an <hi>Association,</hi> against the <hi>King</hi>'s most gratious Purpose to them, and all his People; therefore, leaving her to weigh her present Methods with sedateness, if she pleases, I address my self to the <hi>Dis<g ref="char:EOLhyphen"/>senters,</hi> admonishing and beseeching them, not to be seduced into the Sin, of <hi>Disingenuity</hi> and <hi>Ingratitude</hi> to the King <hi>They</hi> are in his Power, in ef<g ref="char:EOLhyphen"/>fect, for <hi>Life</hi> or <hi>Death.</hi> For should he deliver them up to the <hi>Church</hi> (armed with what she so hotly contends to uphold, the <hi>Penal Laws</hi>) they have little else but Ruin in prospect, their <hi>Dissent</hi> renders their Liberties, and Estates forfeitable by her <hi>Law:</hi> Can they imagin the <hi>King</hi> should preserve them, from her Power of Compelling, which they esteem unreasonable and wicked, if they are found in <hi>Confederacy</hi> with tho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, who pers<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cute him in his <hi>Religion?</hi> They cannot hope it, let them therefore improve this present Conjuncture, for the abolishing the mischieving <hi>Church-Tyranny,</hi> they like and long for the thing, they see the way of effecting it, <hi>let them give ease to all, and they make sure of their own;</hi> the <hi>Terms</hi> are those of the <hi>Gospel (which always exploded Force)</hi> they have no Safety but in accepting them, therefore let them do it now, and be careful not to exasperate the <hi>King,</hi> by concurring in an indiscreet and spiteful <hi>Opposition,</hi> to the Being, and well Being of those of his <hi>Perswasion:</hi> But it seems the <hi>Church</hi> allures the <hi>Dissenters</hi> with specious Promises; surely they are not to be so <hi>decoy'd,</hi> they could ne<g ref="char:EOLhyphen"/>ver get Terms of <hi>Peace,</hi> when she had Power to make <hi>War</hi> upon them, hath she not held them under the Discipline of the <hi>Rod,</hi> and that with<g ref="char:EOLhyphen"/>out
+<pb n="7" facs="tcp:94046:4"/> the intermission of Ease, or Respit <hi>(save what the Interposi<gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> the Crown afforded)</hi> ever since 1660. she never rested, till, by her un<g ref="char:EOLhyphen"/>easiness to the late <hi>King,</hi> and her <hi>caressing,</hi> but deceitful Promises to the <hi>Fanaticks,</hi> she obtained the cancelling his late <hi>Majesties</hi> Declaration of <hi>Indulgence,</hi> then she set again to her pleasant Work <hi>(tho' with God a strange W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rk)</hi> the rigorous execution of her Laws, and if she did not her worst, she was pursuing it to the Day of his <hi>Majesties Declaration,</hi> which checking her, she is become <hi>sullen and Male-content.</hi>
+            </p>
+            <p>The <hi>Church men</hi> (zealous to uphold the <hi>Tests</hi>) argue further with the Dissenters <hi>(for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ithout them they are conscious their Point is lost)</hi> that if the <hi>Tests</hi> are taken off, the Papists will run away with all; that both religious and civil Liberties will be lost, by their getting a <hi>Parliament</hi> of their own Religion: By the way, this Suggestion is not attended with the accustomed Decency of the Church of <hi>England,</hi> to <hi>God</hi> and the <hi>King,</hi> but such Dissenters as have been compelled to come in, and have heard these <hi>Gentlemen</hi> preaching say, That <hi>we are not to do Evil, that Good may come of it; we are to trust God, and do our Duty;</hi> may tell them, that they believe, and therefore will practice those Truths: But,</p>
+            <p>I would demand of those <hi>Gentlemen,</hi> who will believe that all <hi>Faith</hi> and <hi>Laws</hi> may be <hi>violated,</hi> how they will prove our <hi>Security</hi> to lye in the single Act, which excludes <hi>Romanists</hi> from <hi>Parliament,</hi> it may without Controversy, be made as Difficult, to elude such Laws as may be propo<g ref="char:EOLhyphen"/>sed <hi>(in exchange for this)</hi> for our S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>curity, and for quieting of our Fears, as 'tis to break through this <hi>Law:</hi> But to be brief with these <hi>Gentlemen,</hi> before I can believe, and fear to the Degree they seem to do, they must shew me where the Popish <hi>Gentlemen</hi> live, who shall constitute this dread<g ref="char:EOLhyphen"/>ed House of <hi>Commons</hi> (for we choose not the <hi>Lords</hi>) and by what art they shall get themselves elected and returned; for my part, it cannot enter my Head, that the thing is practicable; I know some Counties which cannot furnish two <hi>Roman Catholick</hi> Gentlemen, to this purpose, nor so many Scores to vote for their Election, if they had such men: Indeed there are many of that <hi>Religion</hi> of great <hi>Quality,</hi> and large <hi>Estates,</hi> therein we may rationally conclude we have our Safety, not our Danger, for they <hi>(kno<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing that vicissitude always did, and will attend humane Affairs)</hi> desire a legal <hi>Security</hi> for themselves and their Estates. We have inbred Prejudices against their <hi>Doctrins,</hi> sufficient to prevent their making a Majority in <hi>Parliament:</hi> But it is insinuated that <hi>undu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>false Returns</hi> may be made; yes, we did once behold an <hi>upper House</hi> so packed, and we know who did it, and to come <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>earer home, we do re<g ref="char:EOLhyphen"/>member the Day, when a great <hi>Church Mans Minions</hi> in the House of <hi>Com<g ref="char:EOLhyphen"/>mons,</hi>
+               <pb n="8" facs="tcp:94046:5"/> did not only countenance <hi>false Returns,</hi> but chose who should sit with them, and to bring in a fit <hi>Member</hi> to serve a Turn did by <hi>Vote</hi> declare <hi>Thirteen</hi> to be more than three and <hi>Twenty,</hi> ay, and to my knowledg they gloried in it; that <hi>Trick</hi> was like him that contrived, and them that play'd it: But surely there lives not a man out of the Pale of the <hi>Church,</hi> we are talking of, so wicked, as to think the <hi>King,</hi> doth not detest the thought of so <hi>base a Practice:</hi> He that whispers a thing so greatly below the <hi>King</hi> will, for ought I know, suggest, That to Morrow, his <hi>Majesty</hi> will return us an House of <hi>Commons</hi> from <hi>Hownslow Heath:</hi> Discourses of this kind may not be heard, but in <hi>Bedlam,</hi> or <hi>Newgate;</hi> therefore, adjourning them thither, for <hi>Cure or Correction;</hi> let us not think evil, or dishonourably of the <hi>King;</hi> and let our Temper and Moderation to <hi>Roman Catholicks</hi> be such, that we may never feel the ill Consequences of leaving them un<g ref="char:EOLhyphen"/>der a Suspition, that we <hi>way-lay</hi> them for <hi>Destruction;</hi> let us yield them Security, and we shall be safe: His Majesty's Faith is pledged for <hi>Liberty of Conscience,</hi> during his Life, he desires to establish it by <hi>Parliament,</hi> and in the same way, to set the minds of all his Subjects free, by placing their Persons and Estates out of the reach of future Suffering, for <hi>Conscience sake.</hi> Let us all then be perswaded to meet the <hi>King</hi> cheerfully, in this so great, and so good a Work; and as we desire to have our own <hi>Cons<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ien<g ref="char:EOLhyphen"/>ces disintangled,</hi> let us set every mans <hi>free;</hi> and let it be our Care to live together in Charity and Peace, as the Children of one Family, that, as we are happy beyond our Hopes, and in <hi>despight of our Fears,</hi> in amost gracious <hi>King,</hi> he may see his own Happiness, in a dutiful, loyal, and loving People, and let us with <hi>Ezra</hi> (when the great King <hi>Ar<g ref="char:EOLhyphen"/>taxerxes,</hi> decreed the <hi>Jews</hi> liberty, to do whatsoever should seem good to them after the Will of their God) say, <hi>Blessed be the Lord God of our Fathers, which hath put such a thing as this in the King's Heart.</hi> I am, as before,</p>
+            <closer>
+               <signed>Your Servant.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed, and sold, by <hi>Andrew Sowle,</hi> at the <hi>Croocked-Billet</hi> in <hi>Holl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>way-Lane</hi> in <hi>Shoreditch,</hi> and at the <hi>Three Keys</hi> in <hi>Nags-Head-Court</hi> in <hi>Grace-Church-S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reet,</hi> overagainst the <hi>Conduit,</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
